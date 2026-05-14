@@ -14,10 +14,8 @@ Flask Blog — это веб-приложение для ведения блог
 ## 🚀 Используемые технологии
 
 - Python 3
-- Flask
-- SQLite
-- HTML / CSS
-- Flask-Login
+- style.css
+- sqlite.db
 
 ---
 
